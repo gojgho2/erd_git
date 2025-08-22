@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="10">
   <diagram id="z4mDEb9Q4CgSRI-PU291" name="Side">
     <mxGraphModel dx="3531" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2043,14 +2043,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rHGZYpJK4_pfQDHtb6Py" name="대여자산관련_USECASE">
-    <mxGraphModel dx="3728" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5011" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AsCWHgtszN0a53Dp5DrX-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
           <mxGeometry x="-587.69" y="310" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="DnWOkupp3fa5yHnt4pOW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AsCWHgtszN0a53Dp5DrX-16">
+        <mxCell id="DnWOkupp3fa5yHnt4pOW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AsCWHgtszN0a53Dp5DrX-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-600" y="420" as="targetPoint" />
           </mxGeometry>
@@ -2788,7 +2788,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4NMU2W3AMRp3vI1hfXgq-364" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="317.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="-890" y="317.5" width="110" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="4NMU2W3AMRp3vI1hfXgq-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4NMU2W3AMRp3vI1hfXgq-365" edge="1">
           <mxGeometry relative="1" as="geometry">
